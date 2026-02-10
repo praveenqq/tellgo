@@ -1,0 +1,1 @@
+{ "env":"dev","apiBaseUrl":"https://api.example.com","bridgeUrl":"http://127.0.0.1:7070","kioskId":"TELLGO-KIOSK-001" }
